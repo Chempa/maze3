@@ -34,8 +34,8 @@
 
 <p class="footer">Made with <a href="https://www.cocos.com/products#CocosCreator" title="cocos creator">Cocos Creator</a></p>
 
-<script src="src/settings.d717a.js" charset="utf-8"></script>
-<script src="main.2bf91.js" charset="utf-8"></script>
+<script src="src/settings.938a9.js" charset="utf-8"></script>
+<script src="main.09ca4.js" charset="utf-8"></script>
 
 <script type="text/javascript">
 (function () {

@@ -49,9 +49,9 @@
     </div>
   </div>
 
-<script src="src/settings.1ecc2.js" charset="utf-8"></script>
+<script src="src/settings.71c64.js" charset="utf-8"></script>
 
-<script src="main.81b2b.js" charset="utf-8"></script>
+<script src="main.2e3c5.js" charset="utf-8"></script>
 
 <script type="text/javascript">
 (function () {
