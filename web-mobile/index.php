@@ -28,8 +28,8 @@
   <meta name="360-fullscreen" content="true"/>
   
   <!-- force screen orientation on some browser -->
-  <meta name="screen-orientation" content="portrait"/>
-  <meta name="x5-orientation" content="portrait">
+  <meta name="screen-orientation" content=""/>
+  <meta name="x5-orientation" content="">
 
   <!--fix fireball/issues/3568 -->
   <!--<meta name="browsermode" content="application">-->
@@ -49,9 +49,9 @@
     </div>
   </div>
 
-<script src="src/settings.a91db.js" charset="utf-8"></script>
+<script src="src/settings.0f7bf.js" charset="utf-8"></script>
 
-<script src="main.fbf3a.js" charset="utf-8"></script>
+<script src="main.bf17f.js" charset="utf-8"></script>
 
 <script type="text/javascript">
 (function () {
